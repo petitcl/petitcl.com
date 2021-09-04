@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Clément Petit
+avatar: /static/images/avatar.jpg
+occupation: Senior Software Developer
+# company:
+email: clement.petit22@gmail.com
+# twitter: https://twitter.com/
+linkedin: https://www.linkedin.com/in/petitc/
+github: https://github.com/petitcl
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I'm a Senior / Lead Backend Software Engineer with 6+ years of experience in building e-business cloud hosted Web Applications. I love using new technologies to build highly available, scalable, mission critical products. I'm especially passionate about designing, building and deploying Cloud Native applications.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I specialize in: Java / Spring Boot, Typescript / Node.js, MongoDB, RabbitMQ, ElasticSearch, Microservices, Docker / Kubernetes, AWS. I'm currently learning: Domain Driven Design, Advanced Data Structures and Algorithms.
